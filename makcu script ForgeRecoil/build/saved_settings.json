@@ -1,0 +1,24 @@
+{
+    "sensitivity": 0.28,
+    "ads_sensitivity": 0.76,
+    "fov": 90,
+    "x_speed": 1,
+    "y_speed": 1,
+    "smoothing_steps": 500,
+    "hipfire_enabled": false,
+    "movement_detection": true,
+    "script_mode": "legit",
+    "theme_index": 1,
+    "orbs_enabled": true,
+    "input_method": 0,
+    "toggle_key": 0,
+    "hide_menu_key": 46,
+    "mode_switch_key": 0,
+    "crouch_key": 162,
+    "move_left_key": 65,
+    "move_down_key": 83,
+    "move_right_key": 68,
+    "move_up_key": 87,
+    "custom_keybinds": [
+    ]
+}
